@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Fragment_CountryDescription_Tutorial</string>
+
+    <string-array name="countries">
+        <item>USA</item>
+        <item>Bangladesh</item>
+        <item>India</item>
+        <item>UK</item>
+    </string-array>
+
+    <string-array name="countries_description">
+        <item>This is USA</item>
+        <item>This is Bangladesh</item>
+        <item>This is India</item>
+        <item>This is UK</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
